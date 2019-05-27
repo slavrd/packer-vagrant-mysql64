@@ -1,0 +1,7 @@
+---
+name: default
+title: MySQL installation
+summary: Test suite for basic check of MySQL installation
+version: 0.1.0
+supports:
+  - os-family: linux
